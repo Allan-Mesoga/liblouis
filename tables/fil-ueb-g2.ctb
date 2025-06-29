@@ -1,9 +1,9 @@
-# liblouis: Filipino Braille UEB Code (Grade 2)
+# liblouis: Filipino Braille Code (Grade 2)
 #
 # -----------
-#-name: Filipino braille ueb, grado 2
-#-index-name: Filipino ueb, contracted
-#-display-name: Filipino ueb contracted braille
+#-name: Filipino braille, grado 2
+#-index-name: Filipino, contracted
+#-display-name: Filipino contracted braille
 #
 #+language: fil
 #+language: tlg
